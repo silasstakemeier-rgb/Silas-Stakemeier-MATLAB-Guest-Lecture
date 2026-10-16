@@ -1,3 +1,5 @@
+Mein Name ist Silas Stakemeier :)
+
 # Beginner MATLAB Image Analysis
 
 This repository is a small practice project for the *Modern Optronics
